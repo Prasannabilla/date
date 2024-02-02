@@ -60,7 +60,6 @@ export class HomeComponent {
   }
  
 }
-
 interface ButtonPosition {
   top: string;
   left: string;
