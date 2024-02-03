@@ -14,7 +14,7 @@ import { trigger, state, style, animate, transition } from '@angular/animations'
         animate('2s', style({ transform: 'rotate(720deg)' })),
       ]),
     ]),
-  ],
+  ], 
 })
 export class HomeComponent {
   buttonPosition: ButtonPosition = { top: '61.5%', left: '50%' };

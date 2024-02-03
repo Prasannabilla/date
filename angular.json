@@ -18,7 +18,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "dist/cutiequery",
-            "baseHref": "/date/",
+            
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -103,6 +103,6 @@
     }
   },
   "cli": {
-    "analytics": "7298c455-0bca-4d65-9086-b0876037849f"
+    "analytics": "b42ba564-d90c-4fe9-a73e-45165bae81ed"
   }
 }
